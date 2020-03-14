@@ -1,3 +1,12 @@
+We now have a list of vulnerable target securities that we're going to work on exploiting:
+CMBS
+Shadow bank bonds (like Quicken)
+Oil bonds
+Tech bonds
+
+We need to begin identifying BTOs (if possible (BTOs are just CLO/CDOs, because of course they are)) that target these assets. They're going to fail. Stay tuned, I'm just writing this down so I don't forget it.
+
+
 # Wall-Street-Bets-Master-Doc
 Hey, guys. Welcome to the GitHub page. We'll be splitting it up into a few different sections, depending on area of research. 
 
