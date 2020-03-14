@@ -13,3 +13,4 @@
 - 1.81 – 2.99 = Grey zone
 - \> 2.99 Safe zone
 ## 4.	Are banks calculating their own Altman Z Score to keep it under certain thresholds?
+
