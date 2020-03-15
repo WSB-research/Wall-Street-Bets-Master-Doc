@@ -1,10 +1,3 @@
-We now have a list of vulnerable target securities that we're going to work on exploiting:
-CMBS
-Shadow bank bonds (like Quicken)
-Oil bonds
-Tech bonds
-
-We need to begin identifying BTOs (if possible (BTOs are just CLO/CDOs, because of course they are)) that target these assets. They're going to fail. Stay tuned, I'm just writing this down so I don't forget it.
 
 
 # Wall-Street-Bets-Master-Doc
@@ -15,6 +8,15 @@ The workflow of this project is largely going to be dictated by its main purpose
 1. FA team will identify at-risk market demographics, including foreign banks and distressed debt generally.
 2. They'll be crosschecked by other FA members until a consensus is reached on risk levels; justifications for each in a writeup would be great
 3. Tickers will then be passed on to the TA/data guys, who can set up a bunch of indicators and alerts and generally work their computer magic to best predict the window in which these will fail; graphs and math are appreciated
+
+We now have a list of vulnerable target securities that we're going to work on exploiting:
+CMBS
+Shadow bank bonds (like Quicken)
+Oil bonds
+Tech bonds
+
+We need to begin identifying BTOs (if possible (BTOs are just CLO/CDOs, because of course they are)) that target these assets. They're going to fail. Stay tuned, I'm just writing this down so I don't forget it.
+
 
 
 Some tentative deadlines I'd like to set for each of the steps are
