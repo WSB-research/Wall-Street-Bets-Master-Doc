@@ -2,7 +2,7 @@
 
 ## 1.	Altman Z Score requirements:
 - Working Capital (Current Assets - Current Liabilities)
-    - Current Assets: `assets_curr`
+    - Current Assets: `assets_curr` `AssetsCurrent`
     - Current Liabilities: `liabs_curr`
 - Total Assets: `assets`
 - Retained Earnings: `com_eq_retain_earn`
@@ -12,6 +12,22 @@
 - Sales (Net Interest Income + Non Interest Income)
     - Net Interest Income: `int_inc_net_af`
     - Non Interest Income: `non_int_inc_af`
+
+___
+
+| Current Assets      | `assets_curr`        | `AssetsCurrent`                |
+|---------------------|----------------------|--------------------------------|
+| Current Liabilities | `liabs_curr`         | `LiabilitiesCurrent`           |
+| Total Assets        | `assets`             | `Assets`                       |
+| Retained Earnings   | `com_eq_retain_earn` | `RetainedEarningsAppropriated` |
+| EBIT                | `ebit`               |                                |
+| Market Value        | `mkt_val`            |                                |
+| Total Liabilities   | `liabs`              |                                |
+| Sales               |                      |                                |
+| Net Interest Income | `int_inc_net_af`     |                                |
+| Non Interest Income | `non_int_inc_af`     |                                |
+
+
 ___
 - Working Capital/Total Assets
 - Retained Earnings/Total Assets
