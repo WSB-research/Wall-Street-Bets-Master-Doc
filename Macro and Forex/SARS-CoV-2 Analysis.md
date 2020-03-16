@@ -27,3 +27,4 @@ U.S passed 1,000 Coronavirus Cases : https://www.politico.com/news/2020/03/10/co
 Total World Cases:167,446
 US Cases: 3,499
 See JHU map here: https://coronavirus.jhu.edu/map.html (these are more current than their downloadable data).
+
