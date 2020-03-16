@@ -22,3 +22,9 @@ Raw case numbers: The source is directly from John Hopkins University, which is 
 
 U.S passed 1,000 Coronavirus Cases : https://www.politico.com/news/2020/03/10/coronavirus-cases-united-states-125233
 
+**3/15**
+Total World Cases: 167,446
+US Cases: 3,499
+
+
+Easy to view JHU Map: https://coronavirus.jhu.edu/map.html (Most current and accurate updates)
