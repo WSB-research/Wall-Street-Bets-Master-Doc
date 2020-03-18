@@ -34,7 +34,7 @@ https://sec.report/Document/0001193125-20-064248/#d828816dncsrs.htm
  - Germany -	2
  - Taiwan -	2
  
- ## Cohen & Steers Inc (CNS
+ ## Cohen & Steers Inc (CNS)
  
  https://sec.report/Document/0001193125-20-063978/
 
