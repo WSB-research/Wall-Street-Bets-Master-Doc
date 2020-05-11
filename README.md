@@ -14,16 +14,10 @@ We now have a list of vulnerable target securities that we're going to work on e
 We need to begin identifying BTOs (if possible (BTOs are just CLO/CDOs, because of course they are)) that target these assets. They're going to fail. Stay tuned, I'm just writing this down so I don't forget it.
 
 
+I'd like regular check-ins with progress. We have mandatory weekly meetings at 5pm EST.
 
-Some tentative deadlines I'd like to set for each of the steps are
-
-1. 3/20/20 for a comprehensive (not exhaustive) list of at-risk targets and tickers
-2. 4/3/20 for completed analysis and approval of a list of tickers
-3. 4/3/20 for a set of agreed-upon tracking strategies for the targets. 
-
-I'd like regular check-ins with progress. Say, a minimum of once every day or two. Either post your research directly or relay it to your team lead post-haste.
-
-TechnicalANALyst is your TA team lead; Cannabiz-420/Ti-84/Wa  ge is your FA team lead; Jellyra is your macro team lead. Lelouch_lamperouge is master-of-all-trades, jack-of-none. He's kind of like a magic 8-ball, except he's always right. Be nice to him and you might be rewarded.
+scarvesandsuspenders is your TA team lead; ParadiXe is your FA team lead; Jellyra is your macro team lead. louch aka The Dude In A Suit is master-of-all-trades, jack-of-none. He's kind of like a magic 8-ball, except he's always right. Be nice to him and you might be rewarded.
+Chuckles is the dev lead, does not code much, but he will point you in the right direction. And last but not least, it's joesocktwo aka Gitmo Joe, he is a dipshit and some kind of lead.
 
 If you have any concerns, comments, questions, or suggestions, please feel free to hit me up on discord or bring them to the attention of your team lead.
 
@@ -37,3 +31,12 @@ I really appreciate your time and enthusiasm, guys. I'm stunned that I was met w
 4. Navigate back to the home page of the repository
 5. You should see the option to create a New Pull Request. Click that, and submit a Pull Request from your new branch into master. 
 6. Your changes will be approved and merged in shortly. 
+
+## First steps
+1. Register in https://git.wsbresearchllc.com/ and dm Chuckles to invite you to the group
+2. Register in https://tasks.wsbresearchllc.com/ and dm FA lead what is going on there
+
+## Current tasks for developers
+1) Pulls all the NPORTs on the SEC website (currently completed) and will visualize it for the end user by sector, financials, etc (this portion not completed and is currently handled by utopian).
+2) Pull 10ks and 10qs, do the same visualization thing + financials ranked via our own and the users parameters. Sort of like a very extensive screener. We hope to add machine learning here to go through sector by sector, category by category & see if it could detect anomalies relative to other companies (not complete yet)
+3) An option screener that with the help of math & hopefully ML/historical data will detect statistical anamolies, mispriced options and significantly deviant purchases on the fly. (work in progress).
