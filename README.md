@@ -16,7 +16,7 @@ We need to begin identifying BTOs (if possible (BTOs are just CLO/CDOs, because 
 
 I'd like regular check-ins with progress. We have mandatory weekly meetings at 5pm EST.
 
-scarvesandsuspenders is your TA team lead; ParadiXe is your FA team lead; Jellyra is your macro team lead. louch aka The Dude In A Suit is master-of-all-trades, jack-of-none. He's kind of like a magic 8-ball, except he's always right. Be nice to him and you might be rewarded.
+scarvesandsuspenders is your TA team lead. ParadiXe is your FA team lead. louchey boi aka The Dude In A Suit is master-of-all-trades, jack-of-none. He's kind of like a magic 8-ball, except he's always right. Be nice to him and you might be rewarded.
 Chuckles is the dev lead, does not code much, but he will point you in the right direction. And last but not least, it's joesocktwo aka Gitmo Joe, he is a dipshit and some kind of lead.
 
 If you have any concerns, comments, questions, or suggestions, please feel free to hit me up on discord or bring them to the attention of your team lead.
